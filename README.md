@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! Here you'll find my explorations, creations, and collaborations in the world of software development.
 
 ## 🛠️ Technologies & Tools
-- **Programming Languages**: C,  Python, java, JavaScript, Java, C++
+- **Programming Languages**: C,  Python, java, JavaScript, Advance Java
 - **Frameworks & Libraries**: React, Node.js
 - **Databases**: MySQL, MongoDB
 - **DevOps & Tools**: Git, GitHub Actions
