@@ -3,11 +3,10 @@
 Welcome to my GitHub profile! Here you'll find my explorations, creations, and collaborations in the world of software development.
 
 ## 🛠️ Technologies & Tools
-- **Programming Languages**: C,  Python, java, JavaScript, Advance Java
+- **Programming Languages**: C, C++, Python, java, Advance Java, JavaScript
 - **Frameworks & Libraries**: React, Node.js
 - **Databases**: MySQL, MongoDB
-- **DevOps & Tools**: Git, GitHub Actions
-- **Cloud Platforms**: Azure, GCP
+- **DevOps & Tools**: Git, GitHub
 
 ## 🚀 What I'm currently working on
 - Building innovative web applications
@@ -17,7 +16,8 @@ Welcome to my GitHub profile! Here you'll find my explorations, creations, and c
 ## 🧠 What I’m learning
 - Advanced AI techniques
 - Figma
-- Website Back-end 
+- Website Back-end
+- DSA
 
 ## 📫 How to reach me
 - Email: [deepak443mki@example.com](mailto:mdeepakkumar443@gmail.com)
