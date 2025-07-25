@@ -21,7 +21,7 @@ Welcome to my GitHub profile! Here you'll find my explorations, creations, and c
 
 ## 📫 How to reach me
 - Email: [deepak443mki@example.com](mailto:mdeepakkumar443@gmail.com)
-- LinkedIn: [Deepak's LinkedIn](www.linkedin.com/in/mdeepakkumar443)
+- LinkedIn: [Deepak's LinkedIn](https://www.linkedin.com/in/deepakmajhihello/)
 
 ## 🌟 Fun facts about me
 - I love solving puzzles and coding challenges.
