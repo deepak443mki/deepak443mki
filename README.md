@@ -20,7 +20,7 @@ Welcome to my GitHub profile! Here you'll find my explorations, creations, and c
 - DSA
 
 ## 📫 How to reach me
-- Email: [deepak443mki@example.com](mailto:mdeepakkumar443@gmail.com)
+- Email: [mdeepakkumar443@gmail.com](mailto:mdeepakkumar443@gmail.com)
 - LinkedIn: [Deepak's LinkedIn](https://www.linkedin.com/in/deepakmajhihello/)
 
 ## 🌟 Fun facts about me
